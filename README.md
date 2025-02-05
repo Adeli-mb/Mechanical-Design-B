@@ -12,7 +12,8 @@ Initially hand calculations were undertaken to understand the forces that key co
 <br/>
 
 <p align="center"> <br/>
-Initial Design: <br/>
+Initial Design:
+  <br/>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/KcfFWRp1/MDB-isometric-initial-design.png" alt="MDB-isometric-initial-design" border="0">
 >
 <br />
